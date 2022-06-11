@@ -1,0 +1,4 @@
+a) Crie um banco de dados ativo com as seguintes relações:
+funcionario (codFunc, Nome, data)
+dependente (codDep, codfunc, nome)
+Crie uma trigger para excluir o dependente quando ocorrer a exclusão de um funcionário.
